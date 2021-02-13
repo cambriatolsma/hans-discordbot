@@ -17,7 +17,7 @@ namespace Hans
         {
             _client = new DiscordSocketClient();
 
-            await _client.LoginAsync(TokenType.Bot, "NDQ0MzUwMDY2MTQ1MzYxOTIw.DdapeA.vYHqE3RwZt8tkD7DEPXtTKhMnR0");
+            await _client.LoginAsync(TokenType.Bot, "shhhh no token for you") ;
 
             await _client.StartAsync();
 
