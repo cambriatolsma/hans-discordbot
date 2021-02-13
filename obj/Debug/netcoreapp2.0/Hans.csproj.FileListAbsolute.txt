@@ -1,0 +1,13 @@
+C:\Users\cambr\source\repos\Hans\Hans\bin\Debug\netcoreapp2.0\Hans.deps.json
+C:\Users\cambr\source\repos\Hans\Hans\bin\Debug\netcoreapp2.0\Hans.runtimeconfig.json
+C:\Users\cambr\source\repos\Hans\Hans\bin\Debug\netcoreapp2.0\Hans.runtimeconfig.dev.json
+C:\Users\cambr\source\repos\Hans\Hans\bin\Debug\netcoreapp2.0\Hans.dll
+C:\Users\cambr\source\repos\Hans\Hans\obj\Debug\netcoreapp2.0\Hans.csproj.CoreCompileInputs.cache
+C:\Users\cambr\source\repos\Hans\Hans\obj\Debug\netcoreapp2.0\Hans.AssemblyInfoInputs.cache
+C:\Users\cambr\source\repos\Hans\Hans\obj\Debug\netcoreapp2.0\Hans.AssemblyInfo.cs
+C:\Users\cambr\source\repos\Hans\Hans\bin\Debug\netcoreapp2.0\Hans.pdb
+C:\Users\cambr\source\repos\Hans\Hans\obj\Debug\netcoreapp2.0\Hans.dll
+C:\Users\cambr\source\repos\Hans\Hans\obj\Debug\netcoreapp2.0\Hans.pdb
+C:\Users\cambr\source\repos\Hans\Hans\bin\Debug\netcoreapp2.0\memes\nonou.png
+C:\Users\cambr\source\repos\Hans\Hans\obj\Debug\netcoreapp2.0\Hans.csprojAssemblyReference.cache
+C:\Users\cambr\source\repos\Hans\Hans\bin\Debug\netcoreapp2.0\memes\hasselhoff.jpg
